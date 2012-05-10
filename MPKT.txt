@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2012-05-10T23:35:44+02:00
+
+====== MPKT ======
+Created Thursday 10 May 2012
+
+TCP/IP: Vazba mezi RM OSI a TCP/IP. Filozofie vzájemného propojování sítí. Souběh aplikací a zapouzdřování. Úloha IPv4 vrstvy. IP adresy, podsíťování. IPv4 datagram. IP tunelování. Protokol ICMP. Protokol UDP. Protokol TCP. ARP protokol. DHCP protokol. Překlad adres - NAT. Jmenný systém DNS. Firewally dle vrstev filtrování. Princip protokolů zálohování výchozí brány.
+Aplikační protokoly: Telnet. SSH. FTP. TFTP. HTTP. Schéma přenosu elektronické pošty. Srovnání SMTP, POP3 a IMAP4.
+Management počítačových sítí: Oblasti řízení sítí. Obecná struktura managementu. SNMP.
+Autonomní systémy. IGP a EGP protokoly. Základní charakteristika protokolu BGP.
+IPv6 - datagram, adresace, funkce ICMPv6 protokolu, popis automatické konfigurace v IPv6 síti.
+Teorie konečných automatů, způsoby reprezentace, použití. Systém reálného času. Procesy a paralelní procesy. Komunikace mezi procesy. Problém producent-konzument a kritéria vzájemného vyloučení. 

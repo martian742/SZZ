@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2012-05-10T23:36:23+02:00
+
+====== MKPM ======
+Created Thursday 10 May 2012
+
+Základy rádiové komunikace - výhody a problémy mobilních sítí, vývoj mobilních sítí (generace), přenosový řetězec rádiové komunikace, anténní systémy a jejich vlastnosti, způsoby šíření elektromagnetických vln, problémy s šířením vln, modulační techniky, multiplexní techniky, principy CDMA, OFDM; buňkové systémy - odlišení buněk, typy; mobilita - zajištění konektivity k síti.
+Generace mobilních sítí - sítě první generace (struktura, vlastnosti, příklady, NMT), sítě druhé generace (struktura, vlastnosti, příklady, GSM), sítě třetí generace (struktura, vlastnosti, příklady, UMTS).
+GSM - fáze vývoje, služby, struktura sítě, rozhraní, základnový subsystém, síťový subsystém, subsystém dohledu a obsluhy, mobilní terminál; Struktura rádiového rozhraní - kmitočtová pásma, dělení kmitočtového pásma, buňkový systém v síti GSM, členění oblastí pokrytí, identifikace buněk; Způsob komunikace po rádiovém rozhraní - datové bloky, rámce a vyšší celky; Logické kanály - provozní a řídicí; Zabezpečení přenosu - kódování, prokládání; Handover a přepojování buněk; Signalizace v síti GSM - signalizační rovina, řízení přidělování zdrojů, zajištění mobility, řízení spojení, protokoly linkové vrstvy na rozhraní Um a A-bis; signalizační systém č. 7, signalizace MSC-(G)MSC, MSC-BSS a MSC-registry, činnosti při procedur budování spojení, změna místní oblasti; Zabezpečení přístupu a komunikace.
+GPRS - charakteristika technologie, služby, podpora QoS, struktura sítě GPRS, rozhraní, členění oblastí, funkce PCU a S/G-GSN, terminály GPRS - typy, třídy, multislot třídy; kódovací schémata, zabezpečení dat proti chybám a odposlechu; Stavy MS v síti GPRS, přechody mezi stavy; Sdílení rádiových zdrojů GPRS a GSM; GPRS kanály - struktura, logické kanály; GPRS kanál, jeho členění a sdílení mezi více MS; Zajištění mobility - přepojování buněk; Přístup ke službám - APN, PDP adresa, PDP kontext, TBF, TFT, TLLI, P-TMSI; GPRS protokolová architektura - uživatelská a signalizační (řídicí) rovina; Přeprava dat páteřní sítí GPRS - GTP,
+EDGE - podstata technologie, EGPRS - změny v síťové architektuře, kódovací schémata, propustnost, adaptace spoje a zvyšování nadbytečnosti, dynamická správa síťových zdrojů na rozhraní A-bis.
+UMTS - architektura systému, struktura UTRAN a páteřní sítě, WCDMA, softhandover. 

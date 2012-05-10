@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2012-05-10T23:35:29+02:00
+
+====== MTSD ======
+Created Thursday 10 May 2012
+
+Signály ve sdělovacích systémech (se spojitým a diskrétním časem), základní typy binárních signálů (unipolární a bipolární, RZ a NRZ).
+Modulační a přenosová rychlost, vztah mezi modulační rychlostí a potřebnou přenosovou šířkou pásma kanálu.
+Sdělovací soustava (obecné blokové schéma). Základní vlastnosti telekomunikačních vedení (metalické kabely, světlovody) a rádiových spojů. Linkové kódy (AMI, HDB3, 2B1Q, 4B3T, kódy typu mBnB), požadované vlastnosti linkových kódů.
+Rušivé signály ve sdělovací soustavě, přenos zarušeného binárního signálu v základním pásmu kanálem s AWGN, pravděpodobnost chybného příjmu, snižování pravděpodobnosti chybného příjmu (opakovaný přenos, použití přizpůsobeného filtru, korelační přijímač).
+Mezisymbolové přeslechy a jejich potlačení (tvarovací filtry). Diagram oka. Taktová synchronizace (detektor přechodů, early/late gate). Účel skramblování, druhy skramblerů (blokové schéma skrambleru a deskrambleru SSS a DSS).
+Příčiny vzniku přenosových chyb a způsoby protichybového zabezpečení (ARQ, FEC). Účel a metody prokládání (interleavingu). Účel a obecný princip ekvalizace kanálu, adaptivní lineární ekvalizér, ekvalizér DFE, Viterbiho ekvalizér (MLSE).
+Amplitudové a kmitočtové klíčování. Dvoustavové fázové klíčování (BPSK), demodulace signálu BPSK součinovým demodulátorem, způsoby obnovy nosné v přijímači BPSK signálu, vztažné fázové klíčování (DPSK).
+Klíčování QPSK, 8PSK, OK-QPSK, MSK, FFSK, GMSK, pi/4-DQPSK, MQAM, vektorové a konstelační diagramy. Působení aditivního rušení na sdělovací signály v přeloženém pásmu (úzkopásmový šum, poměr S/N u AM a FM, pravděpodobnost chybného příjmu u základních klíčování).
+Impulzové modulace (PAM, PDM, PPM, PWM), přirozené a uniformní vzorkování, vzorkování sample&hold, aperturové zkreslení. Číslicové vyjádření analogových signálů (vzorkování, kvantování, kvantizační šum, kompandory), kódované impulzové modulace (PCM, DPCM, DM, SDM ).
+Multiplexy a mnohonásobné přístupy (FDMA, TDMA, ALOHA, CDMA), ortogonální kmitočtový multiplex. Modulace v optoelektronice (OOK, unipolární Manchester, PPM).
+Množství informace, entropie, redundance, zdrojové kódování. Přenos informace sdělovacím kanálem, kapacita kanálu, kanálové kódování.

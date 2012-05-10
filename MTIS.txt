@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2012-05-10T23:36:38+02:00
+
+====== MTIS ======
+Created Thursday 10 May 2012
+
+1. Generační vývoj telefonních ústředen, charakteristické vlastnosti 1. až 5. generace. Telefonní přístroj- analogový, ISDN, proprietální (systémový v PBX), VoIP, způsoby volby.
+2. Účastnické sada- Funkce účastnické sady - BORSCHT. Integrované obvody pro účastnické sady SLIC, SLAC, ProSLIC.
+3. Spojovací pole: Základní pojmy spojovacích polí. Hlediska a dělení spojovacích polí - oddělení okruhů (kanálů, vedení), spínače S a T, vícečlánková pole, vnitřní blokování.
+4. Teorie hromadné obsluhy: Základní pojmy, obsluhový systém a jeho části, druhy obsluhových systémů, hlavní provozní hodina, intenzity provozního zatížení, 1. a 2. Erlangova rovnice.
+5. Signalizace v PSTN-Přehled a dělení signalizací. Analogové signalizace: U signalizace, CLIP, E&M. Digitální signalizace: CAS, R2 kód. CCS: DSS1, Q-sig, SS7. Signalizace SS7-struktura, adresace, typy zpráv na 2. vrstvě, sestavení hovoru (ISUP).
+6. VoIP signalizace-přehled VoIP signalizací, konvergované sítě PSTN a VoIP, protokol SIP, H.323, IAX, MGCP, protokoly pro přenos signalizace SS7 přes IP sítě.
+7. Přenos DTMF volby ve VoIP telefonii, přenos faxu, VoIP v podsíti, ENUM, zpoždění a echo ve VoIP telefonii, QoS, hodnocení kvality (MOS, R-faktor) a její zajištění.
+8. Telefonní ústředny 4. generace ve veřejné síti, popis struktury a funkčních bloků Alcatel 1000 S12 a Siemens EWSD.
+9. Pobočkové ústředny (PBX): Rozhraní pobočkových ústředen, služby pobočkových ústředen; DISA, DID; IVR; směrování hovoru v PBX, LCR; Softswitche, Open source řešení přehled a jejich služby, porovnání opensource a proprietárních řešení.
+10. Řídicí prvky digitálních spojovacích systémů - Organizace řízení, Formy soustřeďování řízení, hierarchické, distribuované. Jednoprocesorové systémy, víceprocesorové systémy, řízení ústředny jako FT (Fault Tolerant) systém, způsoby zotavení z chybových stavů, řídicí prvky systémů Siemens EWSD, Alcatel 1000 S12 a PBX ústředen. 

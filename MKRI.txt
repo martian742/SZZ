@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2012-05-10T23:35:56+02:00
+
+====== MKRI ======
+Created Thursday 10 May 2012
+
+Základní pojmy: kryptologie, kryptografie, steganografie, kryptoanalýza, princip symetrických a asymetrických šifer.
+Matematické základy kryptologie: modulární aritmetika, inverse "modulo", Euclidův algoritmus, Eulerova funkce, prvočísla - princip generování.
+Generování náhodných čísel, princip, kongruenční generátory, testování generátorů, baterie testů.
+Symetrické šifrovací algoritmy: principy, používané techniky, Cézarova šifra, Vernamova šifra, substituční a transpoziční šifry, princip jejich kryptoanalýzy, proudové a blokové šifry, módy blokových šifer, příklady se stručnou charakteristikou (AES, DES IDEA, RC(x)), šifry používané v GSM a UMTS, princip autentizace účastníků GSM a UMTS sítě.
+Kvantová kryptografie: princip, protokol pro výměnu klíčů.
+Asymetrické šifrovací algoritmy: zavazadlový algoritmus, RSA, Diffie-Hellman, El Gamal systém, šifry na bázi eliptických křivek.
+"Hašovací" funkce: princip, příklady, kolize, odolnost proti kolizím.
+Autentizace, autentizační metody, vícefaktorová autentizace.
+Digitální podpis: DSS, DSA, PGP, struktura, používané algoritmy.
+PKI: certifikát X.509 struktura certifikační autorita základní části, časová razítka, autorita časových razítek
+Možné způsoby kryptografického zabezpečení datové komunikace, možnosti zabezpečení v jednotlivých vrstvách OSI (metody a mechanizmy), bezpečný web SSL/TSL, IPsec.
+Elektronické platby na Internetu: standard SET, 3D Secure, princip, popis protokolů, použité algoritmy.
+Postranní kanály v kryptografii, základní typy postranních kanálů.
